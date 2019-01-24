@@ -1,0 +1,27 @@
+_repo: Inducements-to-the-Colored-People-of-the-United-States-to-Emigrate-to-British-Guiana_58749
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Carbery, Edward
+    gutenberg_agent_id: '50135'
+    url: http://www.gutenberg.org/2009/agents/50135
+  - agent_name: Hildreth, Richard
+    alias: Hildreth, R. (Richard)
+    birthdate: 1807
+    deathdate: 1865
+    gutenberg_agent_id: '25677'
+    url: http://www.gutenberg.org/2009/agents/25677
+description: ''
+gutenberg_issued: '2019-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58749'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Inducements to the Colored People of the United States to Emigrate to British
+  Guiana
+url: http://www.gutenberg.org/ebooks/58749
