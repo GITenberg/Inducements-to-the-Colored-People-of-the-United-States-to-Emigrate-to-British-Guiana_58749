@@ -1,5 +1,8 @@
 _repo: Inducements-to-the-Colored-People-of-the-United-States-to-Emigrate-to-British-Guiana_58749
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58749-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Carbery, Edward
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '25677'
     url: http://www.gutenberg.org/2009/agents/25677
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58749#Inducements-to-the-Colored-People-of-the-United-States-to-Emigrate-to-British-Guiana
 gutenberg_issued: '2019-01-21'
 gutenberg_type: Text
 identifiers:
